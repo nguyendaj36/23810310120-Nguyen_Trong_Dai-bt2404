@@ -1,0 +1,20 @@
+.sm-student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.sm-student-table th, .sm-student-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.sm-student-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.sm-student-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

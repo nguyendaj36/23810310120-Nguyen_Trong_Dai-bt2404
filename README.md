@@ -2,6 +2,11 @@
 
 Đây là bài tập xây dựng plugin quản lý sinh viên trên nền tảng WordPress.
 
+## Sinh viên thực hiện:
+- Họ tên: Nguyễn Trọng Đai
+- Lớp: D18CNPM2
+- Mã sinh viên: 23810310120
+
 ## Tính năng
 - **Backend**: Đăng ký Custom Post Type `sinh_vien`.
 - **Meta Boxes**: Cho phép nhập liệu MSSV, Lớp, Ngày sinh. Dữ liệu được bảo mật với Nonce và sanitize.
